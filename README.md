@@ -1,5 +1,6 @@
 Nombre de la aplicacion: Inventario de Videojuegos.
-Funciones principales
+
+Funciones principales:
 
 *Inventario (Videojuegos)
 
